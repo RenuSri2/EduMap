@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Student Career Guidance - EduMap</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="auth-section">
+                <!-- Google Sign-In button will be inserted here -->
+            </div>
+            <div class="logo-section">
+                <h1 class="logo">EduMap</h1>
+                <p class="slogan">Shape Your Future</p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <a href="index.html" class="back-link">← Back to Home</a>
+            
+            <div class="form-section">
+                <div class="form-container">
+                    <h2 class="form-title">College Student Career Guidance</h2>
+                    <p class="form-subtitle">Get a comprehensive, personalized career roadmap based on your degree, interests, and career goals. We'll show you exactly what skills to learn, courses to take, and steps to follow!</p>
+
+                    <form id="collegeForm">
+                        <div class="form-group">
+                            <label for="degree">What degree are you pursuing?</label>
+                            <select id="degree" name="degree" required>
+                                <option value="">Select your degree...</option>
+                                <option value="btech">B.Tech / B.E. (Engineering)</option>
+                                <option value="bsc">B.Sc (Science)</option>
+                                <option value="bba">BBA / B.Com (Business)</option>
+                                <option value="ba">BA (Arts/Humanities)</option>
+                                <option value="bca">BCA (Computer Applications)</option>
+                                <option value="bdes">B.Des (Design)</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group" id="branch-group" style="display: none;">
+                            <label for="branch">Select your branch/specialization:</label>
+                            <select id="branch" name="branch">
+                                <option value="">Select branch...</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="interest">What interests you the most?</label>
+                            <select id="interest" name="interest" required>
+                                <option value="">Select your interest...</option>
+                                <optgroup label="Technology & Development">
+                                    <option value="ai">Artificial Intelligence & Machine Learning</option>
+                                    <option value="web">Web Development (Frontend/Backend)</option>
+                                    <option value="mobile">Mobile App Development</option>
+                                    <option value="cyber">Cybersecurity & Ethical Hacking</option>
+                                    <option value="data">Data Science & Analytics</option>
+                                    <option value="devops">DevOps & Cloud Computing</option>
+                                    <option value="blockchain">Blockchain & Web3</option>
+                                    <option value="game">Game Development</option>
+                                </optgroup>
+                                <optgroup label="Business & Management">
+                                    <option value="marketing">Digital Marketing & Growth</option>
+                                    <option value="product">Product Management</option>
+                                    <option value="consulting">Business Consulting</option>
+                                    <option value="finance">Finance & Investment Banking</option>
+                                    <option value="hr">Human Resources</option>
+                                    <option value="sales">Sales & Business Development</option>
+                                </optgroup>
+                                <optgroup label="Creative & Design">
+                                    <option value="uiux">UI/UX Design</option>
+                                    <option value="graphic">Graphic Design</option>
+                                    <option value="content">Content Writing & Strategy</option>
+                                    <option value="video">Video Production & Editing</option>
+                                </optgroup>
+                                <optgroup label="Core Engineering">
+                                    <option value="embedded">Embedded Systems & IoT</option>
+                                    <option value="electronics">Electronics & VLSI</option>
+                                    <option value="mechanical">Mechanical Design & CAD</option>
+                                </optgroup>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="year">Which year are you in?</label>
+                            <select id="year" name="year" required>
+                                <option value="">Select year...</option>
+                                <option value="1">1st Year (Freshman)</option>
+                                <option value="2">2nd Year (Sophomore)</option>
+                                <option value="3">3rd Year (Junior)</option>
+                                <option value="4">4th Year (Senior)</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="goal">What is your primary goal after graduation?</label>
+                            <select id="goal" name="goal" required>
+                                <option value="">Select your goal...</option>
+                                <option value="job">Get a Job in Top Tech/Product Company</option>
+                                <option value="startup">Start My Own Business/Startup</option>
+                                <option value="masters">Pursue Higher Studies (MS/MBA/MTech)</option>
+                                <option value="freelance">Freelancing & Remote Work</option>
+                                <option value="research">Research & PhD</option>
+                                <option value="government">Government Job/PSU</option>
+                                <option value="civil">Civil Services (UPSC/State PCS)</option>
+                            </select>
+                        </div>
+
+                        <div class="btn-group">
+                            <button type="submit" class="btn">Generate My Roadmap</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

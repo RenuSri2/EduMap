@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graduate Career Guidance - EduMap</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="auth-section">
+                <!-- Google Sign-In button will be inserted here -->
+            </div>
+            <div class="logo-section">
+                <h1 class="logo">EduMap</h1>
+                <p class="slogan">Shape Your Future</p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <a href="index.html" class="back-link">← Back to Home</a>
+            
+            <div class="form-section">
+                <div class="form-container">
+                    <h2 class="form-title">Graduate Career Guidance</h2>
+                    <p class="form-subtitle">Get job-ready with a personalized skill development roadmap! We'll show you exactly what to learn, which certifications to get, and how to land your dream role.</p>
+
+                    <form id="graduateForm">
+                        <div class="form-group">
+                            <label for="completed-degree">What degree have you completed?</label>
+                            <select id="completed-degree" name="completed-degree" required>
+                                <option value="">Select your degree...</option>
+                                <option value="btech_cse">B.Tech CSE/IT/Computer Engineering</option>
+                                <option value="btech_ece">B.Tech ECE/EEE/Electronics</option>
+                                <option value="btech_mech">B.Tech Mechanical/Civil/Other</option>
+                                <option value="bca">BCA/B.Sc Computer Science</option>
+                                <option value="bba_bcom">BBA/B.Com/Business</option>
+                                <option value="bsc">B.Sc (Physics/Chemistry/Math/Bio)</option>
+                                <option value="ba">BA (English/Psychology/Others)</option>
+                                <option value="bdes">B.Des/Design Degree</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="current-skills">What skills do you currently have? (Select all that apply)</label>
+                            <div class="checkbox-group">
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="programming" name="skills" value="programming">
+                                    <label for="programming">Programming</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="web-dev" name="skills" value="web-dev">
+                                    <label for="web-dev">Web Development</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="data-analysis" name="skills" value="data-analysis">
+                                    <label for="data-analysis">Data Analysis</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="design" name="skills" value="design">
+                                    <label for="design">Design (UI/UX)</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="marketing" name="skills" value="marketing">
+                                    <label for="marketing">Digital Marketing</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="communication" name="skills" value="communication">
+                                    <label for="communication">Communication</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="management" name="skills" value="management">
+                                    <label for="management">Project Management</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="finance" name="skills" value="finance">
+                                    <label for="finance">Finance/Accounting</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="ml" name="skills" value="ml">
+                                    <label for="ml">Machine Learning</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="cloud" name="skills" value="cloud">
+                                    <label for="cloud">Cloud (AWS/Azure)</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="career-goal">What is your career goal?</label>
+                            <select id="career-goal" name="career-goal" required>
+                                <option value="">Select your goal...</option>
+                                <optgroup label="Software & Tech">
+                                    <option value="software">Software Development Engineer (SDE)</option>
+                                    <option value="backend">Backend/API Developer</option>
+                                    <option value="frontend">Frontend/React Developer</option>
+                                    <option value="fullstack">Full Stack Developer</option>
+                                    <option value="mobile">Mobile App Developer</option>
+                                    <option value="devops">DevOps Engineer</option>
+                                    <option value="cloud">Cloud Architect/Engineer</option>
+                                    <option value="data-science">Data Scientist/ML Engineer</option>
+                                    <option value="cyber">Cybersecurity Analyst</option>
+                                </optgroup>
+                                <optgroup label="Business & Management">
+                                    <option value="product">Product Manager</option>
+                                    <option value="analyst">Business Analyst</option>
+                                    <option value="consultant">Management Consultant</option>
+                                    <option value="marketing-mgr">Marketing Manager</option>
+                                    <option value="sales">Sales/Account Manager</option>
+                                </optgroup>
+                                <optgroup label="Other Paths">
+                                    <option value="designer">UI/UX Designer</option>
+                                    <option value="govt">Government Job (UPSC/SSC/Banking)</option>
+                                    <option value="masters">Higher Studies (MS/MBA)</option>
+                                    <option value="entrepreneur">Entrepreneurship/Startup</option>
+                                </optgroup>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="experience">What is your current experience level?</label>
+                            <select id="experience" name="experience" required>
+                                <option value="">Select experience level...</option>
+                                <option value="fresher">Fresher (No work experience)</option>
+                                <option value="intern">Internship Experience Only</option>
+                                <option value="0-1">0-1 Year Experience</option>
+                                <option value="1-2">1-2 Years Experience</option>
+                                <option value="2-3">2-3 Years Experience</option>
+                                <option value="3+">3+ Years Experience</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="timeline">When do you want to achieve this goal?</label>
+                            <select id="timeline" name="timeline" required>
+                                <option value="">Select timeline...</option>
+                                <option value="3months">Next 3 months (Intensive)</option>
+                                <option value="6months">Next 6 months (Focused)</option>
+                                <option value="1year">Within 1 year (Steady)</option>
+                                <option value="2years">Within 2 years (Gradual)</option>
+                            </select>
+                        </div>
+
+                        <div class="btn-group">
+                            <button type="submit" class="btn">Get My Career Plan</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

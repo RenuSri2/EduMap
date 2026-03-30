@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Student Career Guidance - EduMap</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="auth-section">
+                <!-- Google Sign-In button will be inserted here -->
+            </div>
+            <div class="logo-section">
+                <h1 class="logo">EduMap</h1>
+                <p class="slogan">Shape Your Future</p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <a href="index.html" class="back-link">← Back to Home</a>
+            
+            <div class="form-section">
+                <div class="form-container">
+                    <h2 class="form-title">School Student Career Guidance</h2>
+                    <p class="form-subtitle">Tell us about your interests, strengths, and aspirations. We'll help you choose the right stream and provide a comprehensive career roadmap tailored just for you!</p>
+
+                    <form id="schoolForm">
+                        <div class="form-group">
+                            <label for="interests">Which subjects do you enjoy the most? (Select all that apply)</label>
+                            <div class="checkbox-group">
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="math" name="interests" value="math">
+                                    <label for="math">Mathematics</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="physics" name="interests" value="physics">
+                                    <label for="physics">Physics</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="chemistry" name="interests" value="chemistry">
+                                    <label for="chemistry">Chemistry</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="biology" name="interests" value="biology">
+                                    <label for="biology">Biology</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="computer" name="interests" value="computer">
+                                    <label for="computer">Computer Science</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="accounts" name="interests" value="accounts">
+                                    <label for="accounts">Accountancy</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="economics" name="interests" value="economics">
+                                    <label for="economics">Economics</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="business" name="interests" value="business">
+                                    <label for="business">Business Studies</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="english" name="interests" value="english">
+                                    <label for="english">English</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="languages" name="interests" value="languages">
+                                    <label for="languages">Other Languages</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="history" name="interests" value="history">
+                                    <label for="history">History</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="geography" name="interests" value="geography">
+                                    <label for="geography">Geography</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="psychology" name="interests" value="psychology">
+                                    <label for="psychology">Psychology</label>
+                                </div>
+                                <div class="checkbox-item">
+                                    <input type="checkbox" id="arts" name="interests" value="arts">
+                                    <label for="arts">Arts & Design</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="career-dream">What type of career excites you the most?</label>
+                            <select id="career-dream" name="career-dream" required>
+                                <option value="">Select your dream career type...</option>
+                                <option value="technology">Technology & Software Engineering</option>
+                                <option value="engineering">Core Engineering (Mechanical, Civil, etc.)</option>
+                                <option value="medical">Medical & Healthcare</option>
+                                <option value="research">Research & Science</option>
+                                <option value="business">Business & Entrepreneurship</option>
+                                <option value="finance">Finance & Accounting</option>
+                                <option value="creative">Creative & Design</option>
+                                <option value="media">Media & Journalism</option>
+                                <option value="social">Social Work & NGO</option>
+                                <option value="teaching">Teaching & Education</option>
+                                <option value="law">Law & Legal Services</option>
+                                <option value="government">Government & Civil Services</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="strength">What is your biggest strength?</label>
+                            <select id="strength" name="strength" required>
+                                <option value="">Select your strength...</option>
+                                <option value="analytical">Analytical & Problem Solving</option>
+                                <option value="creative">Creative & Artistic Thinking</option>
+                                <option value="communication">Communication & Public Speaking</option>
+                                <option value="practical">Practical & Hands-on Work</option>
+                                <option value="memory">Strong Memory & Quick Learning</option>
+                                <option value="leadership">Leadership & Team Management</option>
+                                <option value="empathy">Empathy & Understanding Others</option>
+                                <option value="technical">Technical & Mechanical Skills</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="goal">What is your primary goal after 12th?</label>
+                            <select id="goal" name="goal" required>
+                                <option value="">Select your goal...</option>
+                                <option value="engineering">Engineering College (JEE/BITSAT)</option>
+                                <option value="medical">Medical College (NEET)</option>
+                                <option value="commerce">Commerce & Management</option>
+                                <option value="science">Science & Research</option>
+                                <option value="arts">Arts & Humanities</option>
+                                <option value="design">Design & Creative Fields</option>
+                                <option value="law">Law School (CLAT)</option>
+                                <option value="foreign">Study Abroad</option>
+                            </select>
+                        </div>
+
+                        <div class="btn-group">
+                            <button type="submit" class="btn">Get My Career Roadmap</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

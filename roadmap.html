@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Career Roadmap - EduMap</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="auth-section">
+                <!-- Google Sign-In button will be inserted here -->
+            </div>
+            <div class="logo-section">
+                <h1 class="logo">EduMap</h1>
+                <p class="slogan">Shape Your Future</p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <a href="index.html" class="back-link">← Back to Home</a>
+            
+            <div class="results-section">
+                <!-- Stream Recommendation (for school students) -->
+                <div id="stream-recommendation" class="result-card hidden">
+                    <div class="result-header">
+                        <h2 style="font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; margin-bottom: 0.5rem;">Recommended Stream</h2>
+                        <h3 id="recommended-stream" style="font-size: 2rem; color: var(--accent-primary); font-family: 'Playfair Display', serif; font-weight: 700;"></h3>
+                        <p style="color: var(--text-secondary); margin-top: 1rem; line-height: 1.7;">Based on your interests and career goals, this stream will provide you with the best foundation for your future.</p>
+                    </div>
+                </div>
+
+                <!-- Career Results -->
+                <div id="career-results" class="result-card">
+                    <div class="result-header">
+                        <h1 class="career-title" id="career-title">Loading your roadmap...</h1>
+                        <p class="career-description" id="career-description" style="display: none;"></p>
+                        <div class="badge-group">
+                            <span class="salary-badge" id="salary-range">Salary Range</span>
+                        </div>
+                    </div>
+
+                    <!-- Skills Section -->
+                    <div class="result-section">
+                        <h3>Essential Skills to Master</h3>
+                        <div class="skills-grid" id="skills-container">
+                            <!-- Skills will be dynamically added -->
+                        </div>
+                    </div>
+
+                    <!-- Courses Section -->
+                    <div class="result-section">
+                        <h3>Recommended Courses & Certifications</h3>
+                        <ul class="courses-list" id="courses-container">
+                            <!-- Courses will be dynamically added -->
+                        </ul>
+                    </div>
+
+                    <!-- Tools Section (for tech careers) -->
+                    <div class="result-section" id="tools-section" style="display: none;">
+                        <h3>Tools & Technologies to Learn</h3>
+                        <div class="tools-grid" id="tools-container">
+                            <!-- Tools will be dynamically added -->
+                        </div>
+                    </div>
+
+                    <!-- Companies Section -->
+                    <div class="result-section" id="companies-section" style="display: none;">
+                        <h3>Top Companies & Opportunities</h3>
+                        <ul class="companies-list" id="companies-container">
+                            <!-- Companies will be dynamically added -->
+                        </ul>
+                    </div>
+
+                    <!-- Roadmap Section -->
+                    <div class="result-section">
+                        <h3>Your Step-by-Step Career Roadmap</h3>
+                        <p style="color: var(--text-secondary); margin-bottom: 2rem; line-height: 1.7;">
+                            Follow this comprehensive roadmap to achieve your career goals. Each phase includes specific milestones, projects to build, and resources to learn from.
+                        </p>
+                        <div class="roadmap" id="roadmap-container">
+                            <!-- Roadmap phases will be dynamically added -->
+                        </div>
+                    </div>
+
+                    <!-- Action Buttons -->
+                    <div class="btn-group" style="margin-top: 3.5rem;">
+                        <button class="btn" onclick="window.print()">Download Roadmap (PDF)</button>
+                        <button class="btn btn-secondary" onclick="window.location.href='index.html'">Explore Other Paths</button>
+                    </div>
+                </div>
+
+                <!-- Multiple Career Options (for school students) -->
+                <div id="multiple-careers" style="display: none;">
+                    <h2 style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; margin: 3rem 0 2rem; text-align: center;">
+                        Other Career Options in This Stream
+                    </h2>
+                    <!-- Additional career cards will be added here -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
