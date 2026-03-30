@@ -236,21 +236,6 @@ Edit CSS variables in `css/style.css`:
 }
 ```
 
-### Adding More Images
-Replace SVG files in `images/` folder with your own illustrations.
-
-## 🔒 Privacy & Data
-
-### What We Store (If Signed In)
-- User's name, email, profile picture (from Google)
-- Career exploration history
-- Saved roadmaps
-
-### What We DON'T Store
-- Passwords (Google handles authentication)
-- Personal details beyond what Google provides
-- Usage analytics (unless you add them)
-
 ### Local Storage
 - User session: `localStorage.edumap_user`
 - Progress: `localStorage.edumap_progress`
@@ -258,21 +243,11 @@ Replace SVG files in `images/` folder with your own illustrations.
 
 ## 🐛 Troubleshooting
 
-### Google Sign-In Not Working
-- Check if you added correct Client ID
-- Verify you're running on local server (not file://)
-- Check browser console for errors
-
 ### Roadmap Not Generating
 - Open browser console (F12)
 - Check for JavaScript errors
 - Verify careers.json is loading
 - Try with Firefox for better local file support
-
-### Images Not Showing
-- Verify images folder has all 3 SVG files
-- Check file paths are correct
-- Try hard refresh (Ctrl+F5)
 
 ## 📱 Mobile Experience
 
@@ -302,7 +277,7 @@ Fully responsive design works on:
 - Industry alignment
 - Skill gap identification
 
-## 📞 Support
+##  Support
 
 For questions or issues:
 1. Check this README thoroughly
@@ -310,11 +285,11 @@ For questions or issues:
 3. Open browser console for errors
 4. Check careers.json format
 
-## 📜 License
+##  License
 
 Educational use. Feel free to modify and enhance!
 
-## 🙏 Credits
+##  Credits
 
 - **Design**: Custom warm light theme
 - **Illustrations**: Hand-crafted SVG graphics
@@ -324,6 +299,4 @@ Educational use. Feel free to modify and enhance!
 
 ---
 
-**Built with care for students navigating their career journey** 🚀
-
-Version 2.0 - Complete Redesign with Google Auth
+**Built with care for students navigating their career journey** 
