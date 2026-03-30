@@ -1,17 +1,12 @@
-# EduMap V2 - Professional Career Guidance Platform
+# EduMap - Professional Career Guidance Platform
 
-## 🎨 What's New in V2
+## About EduMap
 
-### Complete Redesign
+### Complete Design
 - **Fresh Light Theme**: Warm, friendly aesthetic with light colors (avoiding AI-generated look)
 - **Professional Typography**: Playfair Display + DM Sans for a distinctive, editorial feel
 - **Custom Illustrations**: Hand-crafted SVG illustrations for each user category
 - **Enhanced UX**: Smooth animations, better spacing, improved readability
-
-### Google Authentication
-- **Secure Login**: Sign in with your Google account
-- **Progress Tracking**: Save your career exploration journey
-- **Personalized Experience**: Customized recommendations based on your profile
 
 ### Expanded Content
 - **40+ Detailed Career Paths**: Across technology, business, medical, creative, and government sectors
@@ -30,7 +25,7 @@
 - **Improved Form Validation**: Better error handling and user guidance
 - **Mobile Responsive**: Optimized for all screen sizes
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### Setting Up Google Authentication (Optional but Recommended)
 
@@ -65,7 +60,7 @@
 
 Note: Google sign-in button will show but won't work without proper Client ID setup.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 EDUMAP_V2/
@@ -93,7 +88,7 @@ EDUMAP_V2/
 └── README.md               # This file
 ```
 
-## 🎯 Key Features
+## Key Features
 
 ### For School Students
 - **14 Subject Options**: From Math to Psychology
@@ -116,7 +111,7 @@ EDUMAP_V2/
 - **Experience-based**: Customized for freshers to 3+ years
 - **Timeline Options**: 3 months to 2 years plans
 
-## 🗺️ Enhanced Roadmap Features
+##  Enhanced Roadmap Features
 
 Each career roadmap now includes:
 
@@ -140,7 +135,7 @@ Each career roadmap now includes:
 - **Top Companies**: Who's hiring
 - **Salary Ranges**: Realistic expectations (India-focused)
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 ### Color Palette
 - **Primary Background**: Warm cream (#FBF8F3)
@@ -160,7 +155,7 @@ Each career roadmap now includes:
 - **Distinctive**: Unique, not generic AI-style
 - **Accessible**: Easy to read and navigate
 
-## 💡 Usage Tips
+## Usage Tips
 
 ### Best Practices
 1. **Be Honest**: Select what genuinely interests you
@@ -180,7 +175,7 @@ Each career roadmap now includes:
 - **College**: Consider internship opportunities
 - **Graduate**: Be realistic about timeline
 
-## 📊 Career Database
+##  Career Database
 
 ### Statistics
 - **40+ Career Paths**: Detailed roadmaps
@@ -241,7 +236,7 @@ Edit CSS variables in `css/style.css`:
 - Progress: `localStorage.edumap_progress`
 - Current session: `sessionStorage.careerRecommendation`
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Roadmap Not Generating
 - Open browser console (F12)
@@ -249,7 +244,7 @@ Edit CSS variables in `css/style.css`:
 - Verify careers.json is loading
 - Try with Firefox for better local file support
 
-## 📱 Mobile Experience
+##  Mobile Experience
 
 Fully responsive design works on:
 - 📱 Phones (320px+)
