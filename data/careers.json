@@ -1,0 +1,976 @@
+{
+  "school": {
+    "science_math": {
+      "stream": "MPC (Maths, Physics, Chemistry)",
+      "careers": [
+        {
+          "title": "Software Engineer",
+          "description": "Design, develop, and maintain software applications that solve real-world problems",
+          "skills": ["Programming", "Problem Solving", "Algorithms", "Data Structures", "System Design", "Version Control"],
+          "courses": ["Python Programming", "Java Fundamentals", "Data Structures & Algorithms", "Web Development", "Database Management", "Software Engineering Principles"],
+          "salary": "₹6-25 LPA",
+          "companies": ["Google", "Microsoft", "Amazon", "Flipkart", "Accenture"],
+          "roadmap": [
+            {
+              "phase": "Foundation (Class 11-12)",
+              "duration": "2 years",
+              "steps": ["Excel in Mathematics and Computer Science", "Learn basic programming (Python/C++)", "Solve problems on HackerRank/CodeChef", "Build small projects (calculator, games)"]
+            },
+            {
+              "phase": "Engineering Preparation",
+              "duration": "6 months",
+              "steps": ["Prepare for JEE/BITSAT/State CET", "Focus on PCM fundamentals", "Take mock tests regularly", "Maintain strong percentage (85%+)"]
+            },
+            {
+              "phase": "College (Year 1-2)",
+              "duration": "2 years",
+              "steps": ["Master DSA (Data Structures & Algorithms)", "Learn multiple programming languages", "Contribute to open source", "Build GitHub portfolio", "Participate in hackathons"]
+            },
+            {
+              "phase": "Specialization (Year 3-4)",
+              "duration": "2 years",
+              "steps": ["Choose specialization (Web/AI/Mobile)", "Complete 2-3 internships", "Build 5+ major projects", "Prepare for interviews", "Network on LinkedIn"]
+            },
+            {
+              "phase": "Career Launch",
+              "duration": "Ongoing",
+              "steps": ["Apply to product companies", "Clear technical interviews", "Negotiate salary package", "Continue learning new technologies"]
+            }
+          ]
+        },
+        {
+          "title": "Data Scientist",
+          "description": "Extract insights from data using statistical analysis and machine learning",
+          "skills": ["Statistics", "Python", "Machine Learning", "Data Visualization", "SQL", "Big Data"],
+          "courses": ["Statistics & Probability", "Python for Data Science", "Machine Learning", "Deep Learning", "Tableau/Power BI", "SQL Mastery"],
+          "salary": "₹8-30 LPA",
+          "companies": ["Spotify", "Netflix", "Microsoft", "Amazon", "Walmart Labs"],
+          "roadmap": [
+            {
+              "phase": "Foundation",
+              "duration": "2 years",
+              "steps": ["Strong foundation in Mathematics", "Learn statistics basics", "Start with Excel analytics", "Understand data concepts"]
+            },
+            {
+              "phase": "Engineering Entry",
+              "duration": "1 year",
+              "steps": ["Join B.Tech CSE/Data Science", "Learn Python programming", "Study linear algebra", "Build analytical thinking"]
+            },
+            {
+              "phase": "Skill Development",
+              "duration": "2 years",
+              "steps": ["Master Pandas, NumPy, Matplotlib", "Learn ML algorithms", "Complete Kaggle competitions", "Work with real datasets", "Study probability theory"]
+            },
+            {
+              "phase": "Advanced Learning",
+              "duration": "1 year",
+              "steps": ["Deep Learning & Neural Networks", "Big Data tools (Spark, Hadoop)", "Cloud platforms (AWS, Azure)", "Build ML models", "Create data portfolio"]
+            },
+            {
+              "phase": "Career Path",
+              "duration": "Ongoing",
+              "steps": ["Data Analyst → Data Scientist → ML Engineer", "Get certifications", "Publish on Kaggle", "Network with data community"]
+            }
+          ]
+        },
+        {
+          "title": "Aerospace Engineer",
+          "description": "Design aircraft, spacecraft, satellites, and defense systems",
+          "skills": ["Aerodynamics", "CAD Design", "MATLAB", "Thermodynamics", "Materials Science"],
+          "courses": ["Aerodynamics", "Aircraft Design", "Propulsion Systems", "CAD/CAM", "Composite Materials"],
+          "salary": "₹5-18 LPA",
+          "companies": ["ISRO", "HAL", "DRDO", "Boeing India", "Airbus"],
+          "roadmap": [
+            {
+              "phase": "Academic Foundation",
+              "duration": "2 years",
+              "steps": ["Focus on Physics and Mathematics", "Understand flight principles", "Learn about space technology", "Strong JEE preparation"]
+            },
+            {
+              "phase": "Engineering Education",
+              "duration": "4 years",
+              "steps": ["B.Tech Aerospace Engineering", "Master CAD software", "Learn MATLAB/Simulink", "Join Aeromodelling club", "Participate in competitions"]
+            },
+            {
+              "phase": "Specialization",
+              "duration": "2 years",
+              "steps": ["Choose: Aircraft/Spacecraft/Defense", "Internships at ISRO/HAL", "Research projects", "M.Tech consideration", "GATE preparation"]
+            },
+            {
+              "phase": "Career Entry",
+              "duration": "Ongoing",
+              "steps": ["ISRO scientist exam", "PSU recruitment", "Private aerospace firms", "Defense organizations", "PhD for research roles"]
+            }
+          ]
+        }
+      ]
+    },
+    "biology": {
+      "stream": "BiPC (Biology, Physics, Chemistry)",
+      "careers": [
+        {
+          "title": "Doctor (MBBS)",
+          "description": "Diagnose and treat illnesses, provide medical care to patients",
+          "skills": ["Medical Knowledge", "Patient Care", "Diagnosis", "Surgery", "Communication", "Ethics"],
+          "courses": ["NEET Preparation", "MBBS (5.5 years)", "Specialization (MD/MS)", "Clinical Practice"],
+          "salary": "₹6-50 LPA",
+          "companies": ["AIIMS", "Apollo", "Fortis", "Max Healthcare", "Private Practice"],
+          "roadmap": [
+            {
+              "phase": "NEET Preparation",
+              "duration": "2 years",
+              "steps": ["Master NCERT Biology, Physics, Chemistry", "Join NEET coaching", "Solve 10+ years papers", "Take weekly mock tests", "Score 650+ in NEET"]
+            },
+            {
+              "phase": "MBBS Foundation",
+              "duration": "2 years",
+              "steps": ["Anatomy, Physiology, Biochemistry", "Build strong medical foundation", "Participate in dissections", "Clinical observations", "First professional exam"]
+            },
+            {
+              "phase": "Clinical Years",
+              "duration": "2.5 years",
+              "steps": ["Pathology, Pharmacology, Microbiology", "Medicine, Surgery rotations", "Patient interactions", "Clinical skills development", "Final professional"]
+            },
+            {
+              "phase": "Internship",
+              "duration": "1 year",
+              "steps": ["Rotating internship", "All departments exposure", "Real patient management", "Night duties", "Compulsory MBBS completion"]
+            },
+            {
+              "phase": "Specialization",
+              "duration": "3 years",
+              "steps": ["Clear NEET PG", "Choose specialty (MD/MS)", "Advanced training", "Research/Publications", "Super-specialization option"]
+            }
+          ]
+        },
+        {
+          "title": "Biotechnologist",
+          "description": "Apply biological systems for technology and product development",
+          "skills": ["Genetic Engineering", "Molecular Biology", "Bioprocessing", "Research", "Lab Techniques"],
+          "courses": ["Molecular Biology", "Genetic Engineering", "Bioprocess Engineering", "Bioinformatics", "Immunology"],
+          "salary": "₹4-15 LPA",
+          "companies": ["Biocon", "Dr. Reddy's", "Serum Institute", "Pfizer", "Research Labs"],
+          "roadmap": [
+            {
+              "phase": "Foundation",
+              "duration": "2 years",
+              "steps": ["Strong Biology fundamentals", "Chemistry basics", "Clear NEET/entrance exams", "Choose B.Sc/B.Tech Biotech"]
+            },
+            {
+              "phase": "Undergraduate",
+              "duration": "3-4 years",
+              "steps": ["Cell biology, genetics, biochemistry", "Lab skills development", "Microbiology techniques", "Research methodology", "Semester projects"]
+            },
+            {
+              "phase": "Practical Experience",
+              "duration": "1-2 years",
+              "steps": ["Summer internships in labs", "Research assistant roles", "Learn advanced techniques", "Publication attempts", "Industry exposure"]
+            },
+            {
+              "phase": "Higher Studies",
+              "duration": "2 years",
+              "steps": ["M.Sc Biotechnology", "Thesis work", "Conference presentations", "Industry collaborations", "Placement preparation"]
+            },
+            {
+              "phase": "Career Path",
+              "duration": "Ongoing",
+              "steps": ["Research scientist", "Quality control", "Regulatory affairs", "PhD for academia", "Industry R&D"]
+            }
+          ]
+        },
+        {
+          "title": "Pharmacist",
+          "description": "Dispense medications and provide pharmaceutical care",
+          "skills": ["Pharmacology", "Drug Interactions", "Patient Counseling", "Pharmaceutical Care"],
+          "courses": ["D.Pharm/B.Pharm", "Pharmacology", "Drug Formulation", "Clinical Pharmacy"],
+          "salary": "₹3-12 LPA",
+          "companies": ["Apollo Pharmacy", "MedPlus", "Hospitals", "Pharmaceutical Companies"],
+          "roadmap": [
+            {
+              "phase": "Education Path",
+              "duration": "2-4 years",
+              "steps": ["D.Pharm (2 years) or B.Pharm (4 years)", "Pharmacology basics", "Drug chemistry", "Practical training"]
+            },
+            {
+              "phase": "Registration",
+              "duration": "6 months",
+              "steps": ["State Pharmacy Council registration", "Practice license", "Internship completion"]
+            },
+            {
+              "phase": "Career Start",
+              "duration": "Ongoing",
+              "steps": ["Hospital pharmacy", "Retail pharmacy", "Industry QC/QA", "Clinical pharmacy", "Own pharmacy business"]
+            }
+          ]
+        }
+      ]
+    },
+    "commerce": {
+      "stream": "Commerce (Accounts, Economics, Business)",
+      "careers": [
+        {
+          "title": "Chartered Accountant (CA)",
+          "description": "Provide accounting, taxation, auditing, and financial advisory services",
+          "skills": ["Accounting", "Taxation", "Auditing", "Financial Analysis", "Law", "Ethics"],
+          "courses": ["CA Foundation", "CA Intermediate", "CA Final", "Articleship Training"],
+          "salary": "₹8-40 LPA",
+          "companies": ["Big 4 (Deloitte, PwC, EY, KPMG)", "Banks", "Corporates", "Own Practice"],
+          "roadmap": [
+            {
+              "phase": "CA Foundation",
+              "duration": "6 months",
+              "steps": ["Register after Class 10/12", "Accounting fundamentals", "Business laws basics", "Clear foundation exam", "Self-study approach"]
+            },
+            {
+              "phase": "CA Intermediate",
+              "duration": "10-18 months",
+              "steps": ["Advanced accounting", "Cost & management accounting", "Taxation (Direct & Indirect)", "Auditing concepts", "Clear both groups"]
+            },
+            {
+              "phase": "Articleship",
+              "duration": "3 years",
+              "steps": ["Join CA firm (mandatory)", "Practical exposure", "Real audit experience", "Client interactions", "ITT & OC training"]
+            },
+            {
+              "phase": "CA Final",
+              "duration": "1-2 years",
+              "steps": ["Financial reporting", "Advanced auditing", "Strategic management", "Elective papers", "Final examination"]
+            },
+            {
+              "phase": "Career Launch",
+              "duration": "Ongoing",
+              "steps": ["Big 4 firms", "Industry CA", "Own practice", "CFO path", "Specialize (Taxation/Audit)"]
+            }
+          ]
+        },
+        {
+          "title": "Investment Banker",
+          "description": "Help companies raise capital through financial markets",
+          "skills": ["Financial Modeling", "Valuation", "Market Analysis", "Excel", "Presentations"],
+          "courses": ["B.Com/BBA", "MBA Finance", "CFA", "Financial Modeling", "Excel Advanced"],
+          "salary": "₹10-50 LPA",
+          "companies": ["Goldman Sachs", "Morgan Stanley", "JP Morgan", "Citi", "HSBC"],
+          "roadmap": [
+            {
+              "phase": "Foundation",
+              "duration": "3 years",
+              "steps": ["B.Com/BBA with Finance", "Strong GPA (8.5+)", "Financial concepts", "Stock market understanding", "Internships"]
+            },
+            {
+              "phase": "MBA Preparation",
+              "duration": "1 year",
+              "steps": ["CAT/GMAT preparation", "Target top B-schools (IIMs)", "Work experience (optional)", "Score 99+ percentile"]
+            },
+            {
+              "phase": "MBA Finance",
+              "duration": "2 years",
+              "steps": ["Financial modeling mastery", "Valuation techniques", "Summer internship in IB", "Network heavily", "CFA Level 1 attempt"]
+            },
+            {
+              "phase": "Entry Level",
+              "duration": "2-3 years",
+              "steps": ["Analyst at IB firm", "70-80 hour weeks", "Excel modeling", "Pitch book creation", "Learn from seniors"]
+            },
+            {
+              "phase": "Career Growth",
+              "duration": "Ongoing",
+              "steps": ["Analyst → Associate → VP → MD", "CFA completion", "Sector specialization", "Deal execution"]
+            }
+          ]
+        },
+        {
+          "title": "Company Secretary (CS)",
+          "description": "Ensure company compliance with laws and governance",
+          "skills": ["Corporate Law", "Compliance", "Governance", "Secretarial Practice"],
+          "courses": ["CS Foundation", "CS Executive", "CS Professional"],
+          "salary": "₹5-20 LPA",
+          "companies": ["Corporates", "Law Firms", "Consultancies", "Own Practice"],
+          "roadmap": [
+            {
+              "phase": "CS Foundation",
+              "duration": "6 months",
+              "steps": ["Register after Class 12", "Business communication", "Economics", "Accounts basics"]
+            },
+            {
+              "phase": "CS Executive",
+              "duration": "1-2 years",
+              "steps": ["Company law", "Corporate governance", "Tax laws", "Securities laws"]
+            },
+            {
+              "phase": "Training",
+              "duration": "15 months",
+              "steps": ["Mandatory training", "Company secretarial work", "Practical exposure"]
+            },
+            {
+              "phase": "CS Professional",
+              "duration": "1-2 years",
+              "steps": ["Advanced company law", "Secretarial practice", "Final examination"]
+            },
+            {
+              "phase": "Career",
+              "duration": "Ongoing",
+              "steps": ["Company secretary in MNCs", "Compliance roles", "Own practice", "Legal advisor"]
+            }
+          ]
+        }
+      ]
+    },
+    "arts": {
+      "stream": "Arts/Humanities",
+      "careers": [
+        {
+          "title": "Psychologist",
+          "description": "Study human behavior and provide mental health support",
+          "skills": ["Counseling", "Active Listening", "Empathy", "Research", "Assessment", "Therapy"],
+          "courses": ["BA Psychology", "MA Psychology", "MPhil Clinical Psychology", "Certifications"],
+          "salary": "₹4-20 LPA",
+          "companies": ["Hospitals", "Schools", "NGOs", "Corporate Wellness", "Private Practice"],
+          "roadmap": [
+            {
+              "phase": "Undergraduate",
+              "duration": "3 years",
+              "steps": ["BA Psychology", "Core psychology subjects", "Research methodology", "Statistics", "Internships"]
+            },
+            {
+              "phase": "Postgraduate",
+              "duration": "2 years",
+              "steps": ["MA Psychology", "Choose specialization", "Clinical/Counseling/Organizational", "Thesis work", "Case studies"]
+            },
+            {
+              "phase": "MPhil/PhD",
+              "duration": "2-3 years",
+              "steps": ["Clinical psychology MPhil (for practice)", "RCI registration", "Supervised practice", "Research publications"]
+            },
+            {
+              "phase": "Practice",
+              "duration": "Ongoing",
+              "steps": ["Clinical psychologist", "Counseling practice", "School counselor", "Corporate trainer", "Private practice"]
+            }
+          ]
+        },
+        {
+          "title": "Content Writer/Journalist",
+          "description": "Create engaging written content for various media platforms",
+          "skills": ["Writing", "Research", "SEO", "Storytelling", "Editing", "Communication"],
+          "courses": ["BA English/Journalism", "Content Writing", "Digital Marketing", "SEO Writing"],
+          "salary": "₹3-15 LPA",
+          "companies": ["Media Houses", "Digital Agencies", "Tech Companies", "Freelancing"],
+          "roadmap": [
+            {
+              "phase": "Foundation",
+              "duration": "3 years",
+              "steps": ["BA English/Journalism/Mass Comm", "Read extensively", "Write daily", "Build portfolio", "College magazine"]
+            },
+            {
+              "phase": "Skill Development",
+              "duration": "1 year",
+              "steps": ["SEO writing course", "Content strategy", "WordPress/CMS", "Social media", "Copywriting"]
+            },
+            {
+              "phase": "Experience Building",
+              "duration": "2 years",
+              "steps": ["Internships at media houses", "Freelance projects", "Personal blog", "Guest posting", "LinkedIn writing"]
+            },
+            {
+              "phase": "Career Path",
+              "duration": "Ongoing",
+              "steps": ["Content writer → Senior writer → Content lead", "Specialize (Tech/Finance/Lifestyle)", "Freelancing option", "Author/Blogger"]
+            }
+          ]
+        },
+        {
+          "title": "UX/UI Designer",
+          "description": "Design user interfaces and experiences for digital products",
+          "skills": ["Design Thinking", "Figma", "User Research", "Prototyping", "Visual Design"],
+          "courses": ["Design Fundamentals", "Figma", "UI/UX Bootcamp", "Human-Computer Interaction"],
+          "salary": "₹4-25 LPA",
+          "companies": ["Google", "Microsoft", "Adobe", "Startups", "Design Agencies"],
+          "roadmap": [
+            {
+              "phase": "Learning Phase",
+              "duration": "6-12 months",
+              "steps": ["Design fundamentals", "Learn Figma/Sketch", "Color theory", "Typography", "UX principles"]
+            },
+            {
+              "phase": "Portfolio Building",
+              "duration": "6 months",
+              "steps": ["Redesign existing apps", "Create case studies", "Daily UI challenge", "Behance/Dribbble profile"]
+            },
+            {
+              "phase": "First Job",
+              "duration": "1-2 years",
+              "steps": ["Junior UI/UX designer", "Learn from seniors", "Real projects", "User research", "A/B testing"]
+            },
+            {
+              "phase": "Career Growth",
+              "duration": "Ongoing",
+              "steps": ["Mid-level → Senior → Lead designer", "Specialize (Product/Visual)", "Freelancing", "Design systems"]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "college": {
+    "btech_cse": [
+      {
+        "title": "Full Stack Web Developer",
+        "description": "Build complete web applications from frontend to backend",
+        "skills": ["HTML/CSS/JavaScript", "React/Vue/Angular", "Node.js/Django", "Databases", "Git", "API Design", "Cloud Deployment"],
+        "courses": ["The Complete Web Developer Bootcamp", "React - The Complete Guide", "Node.js Backend", "MongoDB University", "AWS Fundamentals", "System Design"],
+        "tools": ["VS Code", "GitHub", "Postman", "Docker", "AWS/Vercel", "MongoDB Compass"],
+        "salary": "₹6-25 LPA",
+        "companies": ["Google", "Amazon", "Flipkart", "Swiggy", "Razorpay", "Zerodha"],
+        "roadmap": [
+          {
+            "phase": "Frontend Foundation",
+            "duration": "3 months",
+            "milestones": ["HTML/CSS mastery", "JavaScript ES6+", "Responsive design", "Build 5 static websites"],
+            "projects": ["Portfolio website", "Restaurant website", "Landing pages"],
+            "resources": ["freeCodeCamp", "MDN Docs", "CSS Tricks"]
+          },
+          {
+            "phase": "Frontend Framework",
+            "duration": "3 months",
+            "milestones": ["React fundamentals", "State management", "Routing", "API integration"],
+            "projects": ["Todo app with Redux", "Movie search app", "E-commerce frontend"],
+            "resources": ["React docs", "Udemy courses", "YouTube tutorials"]
+          },
+          {
+            "phase": "Backend Development",
+            "duration": "4 months",
+            "milestones": ["Node.js & Express", "REST APIs", "Authentication", "Database design"],
+            "projects": ["Blog API", "Authentication system", "Social media backend"],
+            "resources": ["Node.js docs", "MongoDB University", "Postman learning"]
+          },
+          {
+            "phase": "Full Stack Integration",
+            "duration": "3 months",
+            "milestones": ["MERN stack", "Deployment", "Testing", "CI/CD basics"],
+            "projects": ["Complete CRUD app", "Real-time chat app", "E-commerce platform"],
+            "resources": ["GitHub Actions", "Vercel", "Railway/Render"]
+          },
+          {
+            "phase": "Job Preparation",
+            "duration": "2 months",
+            "milestones": ["DSA revision", "System design basics", "Portfolio polish", "Interview practice"],
+            "projects": ["Capstone project", "Open source contributions", "Technical blogs"],
+            "resources": ["LeetCode", "Pramp", "GeeksforGeeks"]
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "description": "Develop AI models and deploy them in production systems",
+        "skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow/PyTorch", "MLOps", "Cloud ML", "Mathematics"],
+        "courses": ["Machine Learning by Andrew Ng", "Deep Learning Specialization", "MLOps", "Natural Language Processing", "Computer Vision", "Kaggle Competitions"],
+        "tools": ["Jupyter", "TensorFlow", "PyTorch", "Pandas", "Scikit-learn", "MLflow", "Docker"],
+        "salary": "₹8-35 LPA",
+        "companies": ["Google", "Microsoft", "Amazon", "NVIDIA", "OpenAI", "Fractal Analytics"],
+        "roadmap": [
+          {
+            "phase": "Python & Math Foundation",
+            "duration": "2 months",
+            "milestones": ["Python mastery", "Linear algebra", "Calculus", "Probability & statistics"],
+            "projects": ["NumPy exercises", "Statistical analysis projects"],
+            "resources": ["3Blue1Brown", "Khan Academy", "Python docs"]
+          },
+          {
+            "phase": "Machine Learning Basics",
+            "duration": "3 months",
+            "milestones": ["Supervised learning", "Unsupervised learning", "Model evaluation", "Feature engineering"],
+            "projects": ["House price prediction", "Iris classification", "Customer segmentation"],
+            "resources": ["Coursera ML", "Kaggle Learn", "Scikit-learn docs"]
+          },
+          {
+            "phase": "Deep Learning",
+            "duration": "4 months",
+            "milestones": ["Neural networks", "CNNs", "RNNs/LSTMs", "Transfer learning"],
+            "projects": ["Image classifier", "Sentiment analysis", "Time series forecasting"],
+            "resources": ["Fast.ai", "PyTorch tutorials", "Papers with Code"]
+          },
+          {
+            "phase": "Specialization",
+            "duration": "3 months",
+            "milestones": ["Choose: NLP/CV/Recommendation", "SOTA models", "Research papers"],
+            "projects": ["Transformer model", "Object detection", "Recommendation engine"],
+            "resources": ["Hugging Face", "arXiv", "GitHub repos"]
+          },
+          {
+            "phase": "MLOps & Deployment",
+            "duration": "2 months",
+            "milestones": ["Model deployment", "Docker/Kubernetes", "CI/CD for ML", "Monitoring"],
+            "projects": ["Deploy model as API", "End-to-end ML pipeline", "A/B testing system"],
+            "resources": ["MLflow", "Kubeflow", "AWS SageMaker"]
+          },
+          {
+            "phase": "Portfolio & Jobs",
+            "duration": "1 month",
+            "milestones": ["Kaggle profile", "GitHub showcase", "Technical blogs", "Interview prep"],
+            "projects": ["Kaggle competition medals", "Open source ML contributions"],
+            "resources": ["Kaggle", "Papers replication", "ML interview questions"]
+          }
+        ]
+      },
+      {
+        "title": "Cybersecurity Engineer",
+        "description": "Protect systems and networks from cyber threats",
+        "skills": ["Network Security", "Ethical Hacking", "Penetration Testing", "Cryptography", "Security Tools", "Incident Response"],
+        "courses": ["CEH (Certified Ethical Hacker)", "Network Security", "Web Security", "OSCP", "Security+"],
+        "tools": ["Kali Linux", "Wireshark", "Metasploit", "Burp Suite", "Nmap", "John the Ripper"],
+        "salary": "₹5-22 LPA",
+        "companies": ["Cisco", "Palo Alto", "CrowdStrike", "Infosys", "TCS Cyber", "Quick Heal"],
+        "roadmap": [
+          {
+            "phase": "Networking Fundamentals",
+            "duration": "2 months",
+            "milestones": ["TCP/IP", "OSI model", "Routing/Switching", "Network protocols"],
+            "projects": ["Home lab setup", "Packet analysis"],
+            "resources": ["CompTIA Network+", "Cisco NetAcad"]
+          },
+          {
+            "phase": "Linux & Scripting",
+            "duration": "2 months",
+            "milestones": ["Linux commands", "Bash scripting", "Python for security", "System administration"],
+            "projects": ["Automation scripts", "Log analysis tools"],
+            "resources": ["Linux Journey", "OverTheWire"]
+          },
+          {
+            "phase": "Security Fundamentals",
+            "duration": "3 months",
+            "milestones": ["Cryptography", "Authentication", "Access control", "Security principles"],
+            "projects": ["Encryption tools", "Password manager", "Security audit"],
+            "resources": ["Security+", "Cybrary"]
+          },
+          {
+            "phase": "Ethical Hacking",
+            "duration": "4 months",
+            "milestones": ["Reconnaissance", "Vulnerability scanning", "Exploitation", "Post-exploitation"],
+            "projects": ["Hack vulnerable VMs", "CTF competitions", "Bug bounty hunting"],
+            "resources": ["CEH", "HackTheBox", "TryHackMe"]
+          },
+          {
+            "phase": "Specialization",
+            "duration": "3 months",
+            "milestones": ["Web app security", "Cloud security", "Mobile security", "Choose focus"],
+            "projects": ["OWASP Top 10 labs", "Cloud security audit", "Mobile pentest"],
+            "resources": ["OWASP", "PortSwigger Academy", "Bug crowd"]
+          },
+          {
+            "phase": "Certification & Career",
+            "duration": "2 months",
+            "milestones": ["CEH certification", "Security portfolio", "Resume", "Interviews"],
+            "projects": ["Personal security blog", "GitHub security tools", "Case studies"],
+            "resources": ["LinkedIn", "Security conferences", "Job boards"]
+          }
+        ]
+      },
+      {
+        "title": "Mobile App Developer",
+        "description": "Create native and cross-platform mobile applications",
+        "skills": ["Java/Kotlin", "Swift", "React Native", "Flutter", "UI/UX", "Mobile Architecture"],
+        "courses": ["Android Development", "iOS Development", "React Native", "Flutter", "Mobile UI Design"],
+        "tools": ["Android Studio", "Xcode", "VS Code", "Firebase", "Figma"],
+        "salary": "₹5-20 LPA",
+        "companies": ["Google", "Amazon", "PhonePe", "Paytm", "Dream11", "CRED"],
+        "roadmap": [
+          {
+            "phase": "Choose Platform",
+            "duration": "1 month",
+            "milestones": ["Native vs Cross-platform decision", "Language basics", "Setup environment"],
+            "projects": ["Hello World apps"],
+            "resources": ["Platform documentation"]
+          },
+          {
+            "phase": "Foundation",
+            "duration": "3 months",
+            "milestones": ["UI components", "Navigation", "State management", "API calls"],
+            "projects": ["Calculator", "Weather app", "News app"],
+            "resources": ["Official tutorials", "YouTube"]
+          },
+          {
+            "phase": "Advanced Features",
+            "duration": "3 months",
+            "milestones": ["Database", "Notifications", "Authentication", "Payment integration"],
+            "projects": ["Chat app", "E-commerce app", "Social media clone"],
+            "resources": ["Firebase", "Stripe docs"]
+          },
+          {
+            "phase": "Polish & Deploy",
+            "duration": "2 months",
+            "milestones": ["App optimization", "Testing", "Play Store/App Store deployment"],
+            "projects": ["Publish 2-3 apps", "App analytics"],
+            "resources": ["Play Console", "App Store Connect"]
+          }
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "description": "Bridge development and operations through automation",
+        "skills": ["Linux", "Docker", "Kubernetes", "CI/CD", "AWS/Azure", "Terraform", "Monitoring"],
+        "courses": ["Docker Mastery", "Kubernetes", "AWS Solutions Architect", "Terraform", "Jenkins"],
+        "tools": ["Docker", "Kubernetes", "Jenkins", "GitLab CI", "Terraform", "Prometheus", "Grafana"],
+        "salary": "₹7-30 LPA",
+        "companies": ["Netflix", "Amazon", "Microsoft", "Atlassian", "HashiCorp"],
+        "roadmap": [
+          {
+            "phase": "Linux Administration",
+            "duration": "2 months",
+            "milestones": ["Command line mastery", "Shell scripting", "System administration", "Networking"],
+            "projects": ["Bash automation scripts", "Server setup"],
+            "resources": ["Linux Academy", "RHCSA"]
+          },
+          {
+            "phase": "Version Control & CI/CD",
+            "duration": "2 months",
+            "milestones": ["Git advanced", "GitHub Actions", "Jenkins", "GitLab CI"],
+            "projects": ["CI/CD pipeline", "Automated testing", "Deployment automation"],
+            "resources": ["Jenkins docs", "GitHub Learning Lab"]
+          },
+          {
+            "phase": "Containerization",
+            "duration": "2 months",
+            "milestones": ["Docker fundamentals", "Docker Compose", "Container security", "Registry management"],
+            "projects": ["Dockerize applications", "Multi-container apps", "Private registry"],
+            "resources": ["Docker docs", "Docker Mastery course"]
+          },
+          {
+            "phase": "Orchestration",
+            "duration": "3 months",
+            "milestones": ["Kubernetes architecture", "Deployments", "Services", "Helm charts"],
+            "projects": ["K8s cluster setup", "Deploy microservices", "Auto-scaling"],
+            "resources": ["Kubernetes docs", "CKA preparation"]
+          },
+          {
+            "phase": "Cloud & IaC",
+            "duration": "3 months",
+            "milestones": ["AWS/Azure services", "Terraform", "CloudFormation", "Cost optimization"],
+            "projects": ["Cloud infrastructure", "IaC templates", "Multi-cloud deployment"],
+            "resources": ["AWS Training", "Terraform docs", "Cloud certifications"]
+          },
+          {
+            "phase": "Monitoring & Security",
+            "duration": "2 months",
+            "milestones": ["Prometheus", "Grafana", "ELK stack", "Security best practices"],
+            "projects": ["Monitoring dashboard", "Log aggregation", "Security scanning"],
+            "resources": ["Prometheus docs", "DevSecOps"]
+          }
+        ]
+      }
+    ],
+    "bba": [
+      {
+        "title": "Digital Marketing Manager",
+        "description": "Plan and execute digital marketing campaigns across channels",
+        "skills": ["SEO", "SEM", "Social Media", "Content Marketing", "Analytics", "Email Marketing"],
+        "courses": ["Google Digital Marketing", "SEO", "Facebook Ads", "Google Analytics", "Content Strategy"],
+        "tools": ["Google Analytics", "SEMrush", "Canva", "Hootsuite", "Mailchimp", "Meta Ads Manager"],
+        "salary": "₹4-18 LPA",
+        "companies": ["WPP", "Ogilvy", "Dentsu", "Startups", "E-commerce companies"],
+        "roadmap": [
+          {
+            "phase": "Digital Marketing Basics",
+            "duration": "2 months",
+            "milestones": ["Marketing fundamentals", "Digital channels overview", "Consumer behavior"],
+            "projects": ["Personal brand building", "Social media presence"],
+            "resources": ["Google Digital Garage", "HubSpot Academy"]
+          },
+          {
+            "phase": "SEO & Content",
+            "duration": "3 months",
+            "milestones": ["On-page SEO", "Off-page SEO", "Content writing", "Keyword research"],
+            "projects": ["Optimize website", "Content calendar", "Blog writing"],
+            "resources": ["Moz", "Ahrefs", "SEMrush Academy"]
+          },
+          {
+            "phase": "Paid Advertising",
+            "duration": "3 months",
+            "milestones": ["Google Ads", "Facebook Ads", "Display ads", "Campaign optimization"],
+            "projects": ["Run ad campaigns", "A/B testing", "ROAS optimization"],
+            "resources": ["Google Skillshop", "Meta Blueprint"]
+          },
+          {
+            "phase": "Analytics & Strategy",
+            "duration": "2 months",
+            "milestones": ["Google Analytics", "Data analysis", "Conversion optimization", "Marketing strategy"],
+            "projects": ["Analytics dashboard", "Campaign reports", "Marketing plan"],
+            "resources": ["Google Analytics Academy", "Coursera"]
+          },
+          {
+            "phase": "Specialization & Career",
+            "duration": "2 months",
+            "milestones": ["Choose niche", "Certifications", "Portfolio", "Networking"],
+            "projects": ["Case studies", "Client projects", "Freelancing"],
+            "resources": ["LinkedIn Learning", "Industry webinars"]
+          }
+        ]
+      },
+      {
+        "title": "Product Manager",
+        "description": "Define product vision and drive development from concept to launch",
+        "skills": ["Product Strategy", "User Research", "Roadmapping", "Agile/Scrum", "Analytics", "Communication"],
+        "courses": ["Product Management", "Agile & Scrum", "User Research", "Data Analytics", "Design Thinking"],
+        "tools": ["Jira", "Figma", "Google Analytics", "Mixpanel", "Notion", "Miro"],
+        "salary": "₹8-35 LPA",
+        "companies": ["Google", "Amazon", "Microsoft", "Flipkart", "Swiggy", "Razorpay"],
+        "roadmap": [
+          {
+            "phase": "Foundation",
+            "duration": "3 months",
+            "milestones": ["Product lifecycle", "Market research", "User personas", "Problem framing"],
+            "projects": ["Product teardowns", "Feature proposals", "User interviews"],
+            "resources": ["Reforge", "Product School", "Books"]
+          },
+          {
+            "phase": "Technical Understanding",
+            "duration": "2 months",
+            "milestones": ["Tech fundamentals", "APIs basics", "Data analysis", "SQL"],
+            "projects": ["Data dashboards", "SQL queries", "Tech documentation"],
+            "resources": ["Mode Analytics", "Codecademy"]
+          },
+          {
+            "phase": "Agile & Delivery",
+            "duration": "2 months",
+            "milestones": ["Scrum framework", "Sprint planning", "Backlog management", "Stakeholder management"],
+            "projects": ["Product roadmap", "Sprint planning docs", "OKRs"],
+            "resources": ["Scrum.org", "Atlassian guides"]
+          },
+          {
+            "phase": "APM Programs",
+            "duration": "Ongoing",
+            "milestones": ["Company research", "Case prep", "Mock interviews", "Networking"],
+            "projects": ["Product case studies", "Launch plans", "Metrics frameworks"],
+            "resources": ["Exponent", "PM Interview courses"]
+          }
+        ]
+      }
+    ]
+  },
+  "graduate": {
+    "software": [
+      {
+        "title": "Backend Engineer",
+        "description": "Build and maintain server-side logic and databases",
+        "skills": ["Node.js/Java/Python", "REST APIs", "GraphQL", "Databases", "Microservices", "System Design"],
+        "courses": ["Backend Masterclass", "System Design", "Database Design", "Microservices", "AWS/GCP"],
+        "tools": ["PostgreSQL", "Redis", "Docker", "Kafka", "MongoDB", "Kubernetes"],
+        "certifications": ["AWS Developer", "MongoDB Developer", "System Design"],
+        "salary": "₹8-30 LPA",
+        "companies": ["Google", "Amazon", "Uber", "Netflix", "Stripe"],
+        "roadmap": [
+          {
+            "phase": "Core Backend Skills",
+            "duration": "3 months",
+            "milestones": ["Choose language", "Framework mastery", "API design", "Authentication"],
+            "projects": ["RESTful API", "GraphQL server", "Microservice"],
+            "resources": ["Official docs", "Backend courses"]
+          },
+          {
+            "phase": "Databases",
+            "duration": "2 months",
+            "milestones": ["SQL mastery", "NoSQL databases", "Caching", "Database design"],
+            "projects": ["Complex queries", "Database optimization", "Cache layer"],
+            "resources": ["PostgreSQL docs", "Redis University"]
+          },
+          {
+            "phase": "System Design",
+            "duration": "3 months",
+            "milestones": ["Scalability", "Load balancing", "Distributed systems", "Architecture patterns"],
+            "projects": ["Design Instagram", "Design Uber", "Design Twitter"],
+            "resources": ["System Design Primer", "Grokking interviews"]
+          },
+          {
+            "phase": "Production Skills",
+            "duration": "2 months",
+            "milestones": ["Deployment", "Monitoring", "Testing", "CI/CD"],
+            "projects": ["Production deployment", "Logging system", "Test coverage"],
+            "resources": ["DevOps courses", "Cloud platforms"]
+          }
+        ]
+      },
+      {
+        "title": "Cloud Architect",
+        "description": "Design and implement cloud infrastructure solutions",
+        "skills": ["AWS/Azure/GCP", "Cloud Architecture", "Security", "Networking", "Cost Optimization"],
+        "courses": ["AWS Solutions Architect", "Azure Architect", "Cloud Security", "Terraform"],
+        "tools": ["AWS", "Azure", "GCP", "Terraform", "CloudFormation", "Ansible"],
+        "certifications": ["AWS Solutions Architect", "Azure Solutions Architect", "GCP Professional"],
+        "salary": "₹12-40 LPA",
+        "companies": ["Amazon", "Microsoft", "Google", "Accenture", "Deloitte"],
+        "roadmap": [
+          {
+            "phase": "Cloud Fundamentals",
+            "duration": "2 months",
+            "milestones": ["Cloud concepts", "AWS/Azure/GCP basics", "Services overview"],
+            "projects": ["Deploy web app", "S3 static hosting", "EC2 instances"],
+            "resources": ["Cloud provider training", "Free tier exploration"]
+          },
+          {
+            "phase": "Architecture Design",
+            "duration": "3 months",
+            "milestones": ["Well-architected framework", "High availability", "Disaster recovery", "Multi-region"],
+            "projects": ["3-tier architecture", "Auto-scaling setup", "Backup strategies"],
+            "resources": ["AWS Well-Architected", "Architecture patterns"]
+          },
+          {
+            "phase": "Security & Compliance",
+            "duration": "2 months",
+            "milestones": ["IAM", "Encryption", "Compliance", "Security best practices"],
+            "projects": ["Secure VPC", "Key management", "Audit trails"],
+            "resources": ["Cloud security courses", "Compliance docs"]
+          },
+          {
+            "phase": "Automation & IaC",
+            "duration": "2 months",
+            "milestones": ["Terraform", "CloudFormation", "Automation scripts"],
+            "projects": ["Infrastructure as code", "Automated deployments"],
+            "resources": ["Terraform docs", "IaC best practices"]
+          },
+          {
+            "phase": "Certifications",
+            "duration": "3 months",
+            "milestones": ["Solutions Architect certification", "Hands-on labs", "Mock exams"],
+            "projects": ["Certification projects", "Real-world scenarios"],
+            "resources": ["Official practice exams", "Study groups"]
+          }
+        ]
+      }
+    ],
+    "business": [
+      {
+        "title": "Business Analyst",
+        "description": "Bridge business needs and technical solutions through data analysis",
+        "skills": ["Data Analysis", "SQL", "Excel", "Business Intelligence", "Requirements Gathering", "Process Improvement"],
+        "courses": ["Business Analysis", "SQL", "Tableau", "Power BI", "Agile BA"],
+        "tools": ["Excel", "SQL", "Tableau", "Power BI", "Jira", "Visio"],
+        "certifications": ["CBAP", "PMI-PBA", "Agile Analysis Certification"],
+        "salary": "₹6-22 LPA",
+        "companies": ["Accenture", "Deloitte", "Capgemini", "Banks", "Consulting firms"],
+        "roadmap": [
+          {
+            "phase": "Excel & Data Skills",
+            "duration": "2 months",
+            "milestones": ["Advanced Excel", "Data cleaning", "Pivot tables", "Macros"],
+            "projects": ["Sales analysis", "Financial models", "Dashboards"],
+            "resources": ["Excel courses", "Practice datasets"]
+          },
+          {
+            "phase": "SQL & Databases",
+            "duration": "2 months",
+            "milestones": ["SQL queries", "Joins", "Aggregations", "Database concepts"],
+            "projects": ["Business queries", "Data extraction", "Reports"],
+            "resources": ["Mode Analytics", "SQL exercises"]
+          },
+          {
+            "phase": "Business Intelligence",
+            "duration": "3 months",
+            "milestones": ["Tableau/Power BI", "Data visualization", "DAX", "ETL basics"],
+            "projects": ["Interactive dashboards", "KPI tracking", "Executive reports"],
+            "resources": ["Tableau Public", "Power BI docs"]
+          },
+          {
+            "phase": "Business Analysis",
+            "duration": "3 months",
+            "milestones": ["Requirements elicitation", "Process mapping", "User stories", "Stakeholder management"],
+            "projects": ["BRD documents", "Process diagrams", "Use cases"],
+            "resources": ["BABOK", "BA courses"]
+          },
+          {
+            "phase": "Domain & Certification",
+            "duration": "2 months",
+            "milestones": ["Industry knowledge", "Certification prep", "Interview skills"],
+            "projects": ["Domain projects", "Case studies", "Portfolio"],
+            "resources": ["Industry courses", "Certification guides"]
+          }
+        ]
+      }
+    ],
+    "govt_job": [
+      {
+        "title": "UPSC Civil Services (IAS/IPS/IFS)",
+        "description": "Serve in top administrative positions in Indian government",
+        "skills": ["General Studies", "Current Affairs", "Optional Subject", "Essay Writing", "Ethics", "Interview Skills"],
+        "courses": ["UPSC Foundation Course", "Current Affairs", "Optional Subject Coaching", "Answer Writing"],
+        "certifications": ["UPSC CSE"],
+        "salary": "₹56,100 - ₹2,50,000/month",
+        "companies": ["Government of India", "State Governments", "Administrative Services"],
+        "roadmap": [
+          {
+            "phase": "Understanding Syllabus",
+            "duration": "1 month",
+            "milestones": ["Complete syllabus analysis", "Previous papers review", "Success stories study"],
+            "projects": ["Study plan creation", "Resource compilation"],
+            "resources": ["UPSC website", "Toppers' interviews", "Vision IAS"]
+          },
+          {
+            "phase": "NCERTs Foundation",
+            "duration": "3 months",
+            "milestones": ["Class 6-12 NCERTs", "History, Geography, Polity, Economics", "Science basics"],
+            "projects": ["NCERT notes", "Mind maps", "Revision cycles"],
+            "resources": ["NCERTs", "Online lectures", "Standard reference books"]
+          },
+          {
+            "phase": "Prelims Preparation",
+            "duration": "6 months",
+            "milestones": ["GS Paper 1", "CSAT Paper 2", "Current affairs daily", "Mock tests weekly"],
+            "projects": ["Previous 10 years papers", "Test series", "Current affairs compilation"],
+            "resources": ["The Hindu/Indian Express", "Vision IAS", "Insights IAS"]
+          },
+          {
+            "phase": "Mains Preparation",
+            "duration": "8 months",
+            "milestones": ["GS Papers 1-4", "Optional subject", "Essay", "Answer writing practice"],
+            "projects": ["Answer writing", "Ethics case studies", "Optional subject notes"],
+            "resources": ["Standard books", "Coaching notes", "Previous toppers' answers"]
+          },
+          {
+            "phase": "Interview Preparation",
+            "duration": "2 months",
+            "milestones": ["Current affairs mastery", "DAF analysis", "Mock interviews", "Personality development"],
+            "projects": ["Expected questions", "Hobby preparation", "Issue understanding"],
+            "resources": ["Mock interview panels", "Drishti IAS", "Ethics and integrity"]
+          }
+        ]
+      },
+      {
+        "title": "SSC CGL (Tax Inspector/Auditor/Statistical Officer)",
+        "description": "Central government jobs in various ministries and departments",
+        "skills": ["Quantitative Aptitude", "Reasoning", "English", "General Awareness"],
+        "courses": ["SSC CGL Complete Course", "Quantitative Aptitude", "English Grammar", "Current Affairs"],
+        "certifications": ["SSC CGL"],
+        "salary": "₹44,900 - ₹1,42,400/month",
+        "companies": ["Income Tax Department", "CAG", "Central Excise", "Statistics Department"],
+        "roadmap": [
+          {
+            "phase": "Syllabus & Planning",
+            "duration": "2 weeks",
+            "milestones": ["Complete syllabus understanding", "Previous cutoffs analysis", "Study plan"],
+            "projects": ["Tier-wise strategy", "Time allocation"],
+            "resources": ["SSC website", "Previous papers", "Coaching guidance"]
+          },
+          {
+            "phase": "Foundation Building",
+            "duration": "3 months",
+            "milestones": ["Quantitative aptitude basics", "Reasoning fundamentals", "English grammar", "GA/GK foundation"],
+            "projects": ["Topic-wise practice", "Formula sheets", "Vocabulary building"],
+            "resources": ["RS Aggarwal", "Kiran's books", "Plinth to Paramount"]
+          },
+          {
+            "phase": "Advanced Preparation",
+            "duration": "4 months",
+            "milestones": ["Speed mathematics", "Advanced reasoning", "Comprehension skills", "Current affairs"],
+            "projects": ["Mock tests", "Previous year papers", "Speed drills"],
+            "resources": ["Adda247", "Oliveboard", "Gradeup"]
+          },
+          {
+            "phase": "Tier 2 & 3 Prep",
+            "duration": "2 months",
+            "milestones": ["Tier 2 subjects", "Descriptive writing", "Typing speed"],
+            "projects": ["Essay practice", "Letter writing", "Typing practice"],
+            "resources": ["Tier 2 books", "Typing software", "Descriptive practice"]
+          }
+        ]
+      }
+    ]
+  }
+}
